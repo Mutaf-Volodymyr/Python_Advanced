@@ -1,0 +1,12 @@
+{
+    "name": "Vova",
+    "birthday": "2000-05-20",
+    "email": "john.doe@example.com",
+    "password": "verysecurepassword123",
+    "is_employed": true,
+    "address": {
+        "city": "New York",
+        "street": "Broadway",
+        "house_number": 123
+    }
+}
